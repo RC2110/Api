@@ -11,6 +11,15 @@ public class Bike {
 
 	}
 	
+//<<<<<<< HEAD
+//	
+//=======
+	private void fuelCapcity() {
+		System.out.println("Fuel capacity 15-20L");
+	}
+
+//>>>>>>> 47e5b8344d66d3365076d862b7878a168780e32a
+
 	private void m1() {
 		System.out.println(1);
 		System.out.println(2);
