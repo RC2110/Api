@@ -10,5 +10,10 @@ public class Bike {
 		System.out.println("Speed: Specifies the top speed of the vehicle");
 
 	}
+	
+	private void fuelCapcity() {
+		System.out.println("Fuel capacity 15-20L");
+
+	}
 
 }
